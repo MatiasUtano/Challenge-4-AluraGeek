@@ -1,0 +1,27 @@
+{
+    "producto": [
+        {
+            "name": "Producto XYZ",
+            "imagenURL": "https://definicion.de/wp-content/uploads/2009/06/producto.png",
+            "price": "10$",
+            "id": "2",
+            "alt": "Producto",
+            "section": "Star Wars",
+            "description": "Lorem ipsum dolor",
+        },
+
+        {
+            "name": "Batman",
+            "imagenURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Batman_%28black_background%29.jpg/220px-Batman_%28black_background%29.jpg",
+            "price": "10$",
+            "id": "12",
+        },
+
+        {
+            "name": "Super man",
+            "imagenURL": "https://media.gq.com.mx/photos/6046677d32fb42c17c0c6fe7/3:4/w_1500,h_2000,c_limit/SUPERMAN.jpg",
+            "price": "10$",
+            "id": "15",
+        },
+    ]
+}
